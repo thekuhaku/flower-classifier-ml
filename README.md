@@ -1,4 +1,4 @@
-# flower-classifier-ml
+## Flower Classifier Using Machine Learning
 
 Dummy project to explore Tensorflow, Keras, and machine learning.
 
