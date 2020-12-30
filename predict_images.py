@@ -32,7 +32,7 @@ if __name__ == '__main__':
     IMG_WIDTH = 128
     IMG_CHANNELS = 3
     AUTOTUNE = tf.data.experimental.AUTOTUNE
-    data_dir = r"C:\Users\Nathan Jiang\Desktop\Machine Learning\Flowers\test_images"
+    data_dir = r"./test_images"
     IMAGE_COUNT = len(os.listdir(data_dir))
 
     json_file = open('model.json', 'r')
